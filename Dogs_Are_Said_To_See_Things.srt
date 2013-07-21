@@ -1,127 +1,117 @@
-﻿1
-00:00:46,708 --> 00:00:49,625
-Alumbramento presents
-Alumbramento 出品
-
-2
+1
 00:01:00,250 --> 00:01:04,333
 Based on the short story by Moreira Campos
 故事出自於Moreira Campos
 
-3
+2
 00:01:19,583 --> 00:01:24,041
 Dogs are Said to See Things
 狗目睹了一切
 
-4
+3
 00:02:47,541 --> 00:02:48,625
 Yeah!
 對！
 
-5
+4
 00:02:49,291 --> 00:02:50,916
 Yes, it's close.
 恩，很接近了
 
-6
+5
 00:02:50,916 --> 00:02:52,666
 How close?
 有多近了？
 
-7
+6
 00:02:52,666 --> 00:02:55,708
 Well, can't you feel the heat?
 恩，你們沒有感覺到那熱氣嗎？
 
-8
+7
 00:03:14,833 --> 00:03:19,125
 So that the sky might turn blue
 那天空可能會變藍
 
-9
+8
 00:03:20,000 --> 00:03:24,291
 So that the planet might be one
 而那星球也將成為其中之一
 
-10
+9
 00:03:25,083 --> 00:03:27,083
 And mankind...
 而人類…
 
-11
+10
 00:03:34,833 --> 00:03:37,416
-See how he likes that? 
-Can't you see?
-你們看他有多喜歡？
-看不出來嗎？
+See how he likes that?  Can't you see?
+你們看他有多喜歡？ 看不出來嗎？
 
-12
+11
 00:03:37,416 --> 00:03:39,791
 He's really enjoying it.
 他真的很享受
 
-13
+12
 00:03:40,291 --> 00:03:42,083
-- It's me?
-- No.
-我的？
-不是
+- It's me?  - No.
+- 我的？ - 不是
 
-14
+13
 00:03:44,291 --> 00:03:45,166
 Hey...
 嘿…
 
-15
+14
 00:03:45,625 --> 00:03:48,750
 ...take that stuff off my face, damn it! Shit!
 把那東西從我臉上移開，該死的！媽的！
 
-16
+15
 00:04:56,458 --> 00:04:58,416
 Asshole!
 混蛋！
 
-17
+16
 00:05:22,375 --> 00:05:23,875
 Attention everyone!
 各位注意一下！
 
-18
+17
 00:05:23,875 --> 00:05:26,416
 Lunch is served!
 中餐可以開始享用了！
 
-19
+18
 00:05:28,125 --> 00:05:31,208
 Hey, get to the back of the line!
 嘿，到後面排隊去！
 
-20
+19
 00:05:32,375 --> 00:05:34,583
 What if you meet someone?
 要是你遇見了甚麼人呢？
 
-21
-00:05:34,583 --> 00:05:38,000
-- We never know.
-- Yes, it's better to be prepared.
+20
+00:05:34,583 --> 00:05:35,563
+We never know.
 世事難料
+
+21
+00:05:35,663 --> 00:05:37,999
+Yes, it's better to be prepared.
 對呀，最好先有心理準備
 
 22
 00:05:38,750 --> 00:05:40,541
-- Have a nice meal.
-- Thanks.
-祝你用餐愉快
-謝謝
+- Have a nice meal.  - Thanks.
+- 祝你用餐愉快  - 謝謝
 
 23
 00:05:45,000 --> 00:05:48,166
-- Come here, get in. Come on!
-- Thanks.
-來呀，排這。來嘛！
-謝了
+- Come here, get in. Come on!  - Thanks.
+- 來呀，排這。來嘛！  - 謝了
 
 24
 00:05:48,166 --> 00:05:51,416
@@ -129,51 +119,81 @@ After all, you're growing up girl.
 畢竟，妳也在發育嘛
 
 25
-00:11:01,708 --> 00:11:08,250
+00:11:01,708 --> 00:11:04,450
 I wouldn't miss you at all
-on a sunny sunday at Beach Park
 我一點都不會想你
-在 海灘公園 一個晴朗的星期天
 
 26
-00:11:08,250 --> 00:11:15,041
-There's no way I would take you along
-for a walk with me at Iguatemi Mall.
-我是不可能帶你一起逛Iguatemi商場
+00:11:04,550 --> 00:11:08,249
+on a sunny sunday at Beach Park
+在海灘公園 一個晴朗的星期天
 
 27
-00:11:15,041 --> 00:11:22,041
-I wouldn't dare facing the embarrassment
-in front of my cool friends from Aldeota.
-我無法面對被那些自Aldeota朋友發現的窘境
+00:11:08,250 --> 00:11:11,416
+There's no way I would take you along
+我是不可能帶你
 
 28
-00:11:22,041 --> 00:11:29,833
-Because now I hold a high reputation
-among the high circles of high society.
-因為我在現在的社交圈裡有一定的地位
+00:11:11,516 --> 00:11:15,040
+for a walk with me at Iguatemi Mall.
+一起逛Iguatemi商場
 
 29
-00:11:29,833 --> 00:11:37,083
-I know that the bourgeoisie stinks
-but it has money to buy perfume.
-雖然我知道那資產階級的腐敗但那讓我有錢得到我要的
+00:11:15,041 --> 00:11:18,094
+I wouldn't dare facing the embarrassment
+我無法面對被
 
 30
-00:11:37,083 --> 00:11:43,583
-What's more, in the high society
-people are cheated on without getting jealous.
-再者，在這資本社會裡人們毫無理由的互相欺騙
+00:11:18,194 --> 00:11:22,040
+in front of my cool friends from Aldeota.
+那些自Aldeota朋友發現的窘境
 
 31
-00:11:43,583 --> 00:11:50,583
-I know that the bourgeoisie stinks
-but it has money to buy perfume.
-雖然我知道那資產階級的腐敗但那讓我有錢得到我要的
+00:11:22,041 --> 00:11:25,555
+Because now I hold a high reputation
+因為我在現在的社交圈裡
 
 32
-00:12:03,750 --> 00:12:10,708
+00:11:25,655 --> 00:11:29,832
+among the high circles of high society.
+有一定的地位
+
+33
+00:11:29,833 --> 00:11:33,565
+I know that the bourgeoisie stinks
+雖然我知道那資產階級的腐敗
+
+34
+00:11:33,665 --> 00:11:37,082
+but it has money to buy perfume.
+但那讓我有錢得到我要的
+
+35
+00:11:37,083 --> 00:11:39,800
+What's more, in the high society
+再者，在這資本社會裡
+
+36
+00:11:39,900 --> 00:11:43,582
+people are cheated on without getting jealous.
+人們毫無理由的互相欺騙
+
+37
+00:11:43,583 --> 00:11:47,185
+I know that the bourgeoisie stinks
+雖然我知道那資產階級的腐敗
+
+38
+00:11:47,285 --> 00:11:50,582
+but it has money to buy perfume.
+但那讓我有錢得到我要的
+
+39
+00:12:03,750 --> 00:12:08,628
 I'm IN, I'm not OUT.
-I'm VIP.
 我身陷其中，不像你是局外人
+
+40
+00:12:08,728 --> 00:12:10,707
+I'm VIP.
 我是VIP
