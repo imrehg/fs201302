@@ -1,482 +1,679 @@
 1
 00:00:00,000 --> 00:00:05,320
 Bathing Micky
+(??? )
 
 2
-00:00:18,200 --> 00:00:22,680
+00:00:18,200 --> 00:00:19,910
 We are all born,
-and eventually we all die -
-我們出生，然後我們死亡
+我們出生，
 
 3
-00:00:22,800 --> 00:00:26,960
-- that is how it
-has all been planned.
-這全部都是計畫好的。
+00:00:20,010 --> 00:00:22,680
+and eventually we all die,
+然後我們死亡
 
 4
-00:00:27,080 --> 00:00:32,600
-You don't know when it will happen...
-And thinking about it is of no use.
-你不知道什麼時候會發生.....想這件事情也是沒意義。
+00:00:22,800 --> 00:00:26,960
+that is how it has all been planned.
+這全部都是計畫好的。
 
 5
+00:00:27,080 --> 00:00:29,981
+You don't know when it will happen...
+你不知道什麼時候會發生.....
+
+6
+00:00:30,081 --> 00:00:32,599
+And thinking about it is of no use.
+想這件事情也是沒意義。
+
+7
 00:00:36,800 --> 00:00:39,880
 To paraphrase Socrates:
 套用蘇格拉底所說的話；
 
-6
-00:00:40,000 --> 00:00:46,240
+8
+00:00:40,000 --> 00:00:43,208
 "If death is but a long sleep,
-it must be a wonderful thing."
 如果死亡只不過是一個漫長的睡眠，
+
+9
+00:00:43,308 --> 00:00:46,239
+it must be a wonderful thing."
 它一定是一個美妙的事情。
 
-7
+10
 00:00:46,360 --> 00:00:50,200
 One should never fear the unknown.
 一個人不應該畏懼不知道的事物。
 
-8
-00:00:58,280 --> 00:01:02,800
-He was fun,
-and always in a good mood.
-他很風趣，總是有著好心情。
-
-9
-00:01:02,920 --> 00:01:10,920
-And he was very intelligent.
-He would write songs and speeches...
-他非常的聰明。
-他會寫歌、詞.....
-
-10
-00:01:11,040 --> 00:01:15,000
-He was always
-looking for fun and games.
-他總是在開玩笑和遊戲。
-
 11
-00:01:15,120 --> 00:01:21,920
-And that was great,
-because no one likes a curmudgeon.
-那真的很棒，因為沒有人喜歡一個倔老頭。
+00:00:58,280 --> 00:00:59,707
+He was fun,
+他很風趣，
 
 12
-00:01:37,600 --> 00:01:45,240
-Love is having someone
-you enjoy being with...
-愛就是擁有一個你喜歡和他相處在一起的人...
+00:00:59,807 --> 00:01:02,799
+and always in a good mood.
+總是有著好心情。
 
 13
+00:01:02,920 --> 00:01:06,298
+And he was very intelligent.
+他非常的聰明。
+
+14
+00:01:06,398 --> 00:01:10,919
+He would write songs and speeches...
+他會寫歌、詞.....
+
+15
+00:01:11,040 --> 00:01:15,000
+He was always looking for fun and games.
+他總是在開玩笑和遊戲。
+
+16
+00:01:15,120 --> 00:01:17,459
+And that was great,
+那真的很棒，
+
+17
+00:01:17,559 --> 00:01:21,919
+because no one likes a curmudgeon.
+因為沒有人喜歡一個倔老頭。
+
+18
+00:01:37,600 --> 00:01:40,871
+Love is having someone
+愛就是擁有一個
+
+19
+00:01:40,971 --> 00:01:45,239
+you enjoy being with...
+你喜歡和他相處在一起的人...
+
+20
 00:01:45,360 --> 00:01:47,880
 Someone who...
 有一個....
 
-14
-00:01:53,120 --> 00:01:59,160
+21
+00:01:53,120 --> 00:01:55,625
 Someone whose company you
+一個帶給你快樂
+
+22
+00:01:55,725 --> 00:01:59,159
 really enjoy and who brings you joy.
-一個帶給你快樂和享受他的陪伴。
+和享受他的陪伴。
 
-15
-00:01:59,280 --> 00:02:02,600
+23
+00:01:59,280 --> 00:02:00,762
 Someone who is interested
-in the same things as you -
-一個和你有著相同的喜好
+一個和你
 
-16
-00:02:02,720 --> 00:02:06,960
-- and with whom
-you enjoy your daily life.
-並讓你享受你每天的生活。
+24
+00:02:00,862 --> 00:02:02,599
+in the same things as you,
+有著相同的喜好
 
-17
+25
+00:02:02,720 --> 00:02:04,990
+and with whom you enjoy
+並讓你享受
+
+26
+00:02:05,090 --> 00:02:06,960
+your daily life.
+你每天的生活。
+
+27
 00:02:09,360 --> 00:02:13,840
 I believe that to be very important.
 我相信這非常的重要。
 
-18
-00:02:13,960 --> 00:02:20,880
-And then there is the sexual aspect.
-That's usually how it all begins...
-當然這其中還有著性。
-通常這就是一切的開始....
-
-19
-00:02:41,640 --> 00:02:44,840
-When we got married
-we didn't want children -
-我們剛結婚時，我們並不想要小孩。
-
-20
-00:02:44,960 --> 00:02:51,480
-- because my husband was Jewish
-and Hitler had occupied Denmark.
-因為我的丈夫是猶太人，希特勒佔領了丹麥。
-
-21
-00:03:10,520 --> 00:03:18,960
-When I woke up on 9th April, 1940,
-there was a terrible racket.
-當我在1940年4月9日起床時，一個很可怕的聲響。
-
-22
-00:03:19,040 --> 00:03:22,800
-I went to the window and opened
-the blinds to have a look -
-我跑去窗戶旁打開百葉窗....
-
-23
-00:03:22,880 --> 00:03:30,560
-- and the sky was filled with planes,
-dropping something from the air.
-從滿是飛機的天空中掉了東西下來。
-
-24
-00:03:38,120 --> 00:03:45,000
-It was unreal.
-It was like a bolt from the blue.
-一點都不真實，好似晴天霹靂。
-
-25
-00:03:45,080 --> 00:03:49,400
-It was like a
-sudden slap to the face.
-就好似被打了一巴掌。
-
-26
-00:03:49,480 --> 00:03:53,800
-It was...
-We didn't know what was happening.
-我們不知道發生了什麼事。
-
-27
-00:04:00,040 --> 00:04:06,080
-They would transport Jews on trucks
-and load them onto ships.
-他們會把猶太人載上卡車，在運上船。
-
 28
-00:04:06,200 --> 00:04:11,760
-We didn't know how bad
-the concentration camps were.
-我們不知道集中營到底是怎樣。
+00:02:13,960 --> 00:02:17,262
+And then there is the sexual aspect.
+當然這其中還有著性。
 
 29
-00:04:18,720 --> 00:04:25,400
-There were rumours that, where a Jew
-was married to a non-Jewish person -
-有傳言，一個猶太人娶了一個非猶太人
+00:02:17,362 --> 00:02:20,879
+That's usually how it all begins...
+通常這就是一切的開始....
 
 30
-00:04:25,520 --> 00:04:30,080
-- you would both be okay. At least
-that's what the Germans said -
-你們兩個可能會沒事。至少德國人是這樣說
+00:02:41,640 --> 00:02:42,983
+When we got married
+我們剛結婚時，
 
 31
-00:04:30,200 --> 00:04:36,640
-- but no one believed them. We then
-received word from a "good" German -
-但沒人相信。我們接著從好德國人那得到消息
+00:02:43,083 --> 00:02:44,839
+we didn't want children
+我們並不想要小孩。
 
 32
+00:02:44,960 --> 00:02:48,130
+because my husband was Jewish
+因為我的丈夫是猶太人，
+
+33
+00:02:48,230 --> 00:02:51,479
+and Hitler had occupied Denmark.
+希特勒佔領了丹麥。
+
+34
+00:03:10,520 --> 00:03:15,306
+When I woke up on 9th April, 1940,
+當我在1940年4月9日起床時，
+
+35
+00:03:15,406 --> 00:03:18,959
+there was a terrible racket.
+一個很可怕的聲響。
+
+36
+00:03:19,040 --> 00:03:20,329
+I went to the window
+我跑去窗戶
+
+37
+00:03:20,429 --> 00:03:22,799
+and opened the blinds to have a look
+旁打開百葉窗....
+
+38
+00:03:22,880 --> 00:03:26,890
+- and the sky was filled with planes,
+從滿是飛機的天空
+
+39
+00:03:26,990 --> 00:03:30,559
+dropping something from the air.
+中掉了東西下來。
+
+40
+00:03:38,120 --> 00:03:40,472
+It was unreal.
+一點都不真實，
+
+41
+00:03:40,572 --> 00:03:44,999
+It was like a bolt from the blue.
+好似晴天霹靂。
+
+42
+00:03:45,080 --> 00:03:49,400
+It was like a sudden slap to the face.
+就好似被打了一巴掌。
+
+43
+00:03:49,480 --> 00:03:51,703
+It was... We didn't know
+我們不知道
+
+44
+00:03:51,803 --> 00:03:53,799
+what was happening.
+發生了什麼事。
+
+45
+00:04:00,040 --> 00:04:03,354
+They would transport Jews on trucks
+他們會把猶太人載
+
+46
+00:04:03,454 --> 00:04:06,079
+and load them onto ships.
+上卡車，在運上船。
+
+47
+00:04:06,200 --> 00:04:08,473
+We didn't know how bad
+我們不知道
+
+48
+00:04:08,573 --> 00:04:11,759
+the concentration camps were.
+集中營到底是怎樣。
+
+49
+00:04:18,720 --> 00:04:22,193
+There were rumours that, where a Jew
+有傳言，一個猶太人娶了
+
+50
+00:04:22,293 --> 00:04:25,399
+was married to a non-Jewish person -
+一個非猶太人
+
+51
+00:04:25,520 --> 00:04:27,431
+- you would both be okay.
+你們兩個可能會沒事。
+
+52
+00:04:27,531 --> 00:04:30,079
+At least that's what the Germans said -
+至少德國人是這樣說
+
+53
+00:04:30,200 --> 00:04:32,582
+- but no one believed them.
+但沒人相信。
+
+54
+00:04:32,682 --> 00:04:36,639
+We then received word from a "good" German
+我們接著從好德國人那得到消息
+
+55
 00:04:36,760 --> 00:04:42,320
 - that on a certain day in October -
 在十月的某一天，
 
-33
+56
 00:04:42,440 --> 00:04:46,880
-- all the Jews were
-going to be rounded up.
+all the Jews were going to be rounded up.
 所有的猶太人被集中起來。
 
-34
-00:04:59,800 --> 00:05:03,480
+57
+00:04:59,800 --> 00:05:01,495
 I was guilty of miscegenation
+???? 通婚
+
+58
+00:05:01,595 --> 00:05:03,479
 because I had married a Jew.
 我因為和一個猶太人結婚。
 
-35
-00:05:03,600 --> 00:05:09,440
+59
+00:05:03,600 --> 00:05:06,191
 That was a term they used to
-describe those who were not Aryans-
-他們有一個專業名詞來描寫那些非亞利安人
+他們有一個專業名詞
 
-36
+60
+00:05:06,291 --> 00:05:09,439
+describe those who were not Aryans
+來描寫那些非亞利安人
+
+61
 00:05:09,560 --> 00:05:14,760
-- the race that they were so fond of.
+ the race that they were so fond of.
 他們是如此的尊敬那個種族。
 
-37
-00:05:34,480 --> 00:05:41,120
-It wasn't a time we enjoyed, with
-the things they had against the Jews.
-對猶太人來說，這段時間並不是那麼的美好。
+62
+00:05:34,480 --> 00:05:37,028
+It wasn't a time we enjoyed,
+對猶太人來說，
 
-38
+63
+00:05:37,128 --> 00:05:41,119
+with the things they had against the Jews.
+這段時間並不是那麼的美好。
+
+64
 00:05:41,240 --> 00:05:46,600
 If we had a child together...
 假如我們有了孩子....
 
-39
-00:05:46,720 --> 00:05:52,040
-Supposedly, it was the mother who
-determined it... But we thought...
-據說，這是母親的決定....但我們認為....
+65
+00:05:46,720 --> 00:05:49,244
+Supposedly, it was the mother
+據說，這是母親的決定....
 
-40
-00:05:52,160 --> 00:05:57,520
-We didn't trust the Germans, and the
-child of course would be half-Jewish.
-我們不相信德國人，而且我們的小孩是半個猶太人。
+66
+00:05:49,344 --> 00:05:51,989
+who determined it... But we thought...
+但我們認為....
 
-41
+67
+00:05:52,160 --> 00:05:54,188
+We didn't trust the Germans,
+我們不相信德國人，
+
+68
+00:05:54,288 --> 00:05:57,519
+and the child of course would be half-Jewish.
+而且我們的小孩是半個猶太人。
+
+69
 00:05:57,640 --> 00:06:01,080
 So we decided not to have a child.
 所以我們決定不要生小孩。
 
-42
+70
 00:06:48,760 --> 00:06:51,800
 That was wonderful!
 真的是太棒了!
 
-43
+71
 00:06:58,360 --> 00:07:01,280
-A friend of my husband,
-Henrik Kraft -
-我丈夫的一個朋友 - Henrik Kraft
+A friend of my husband, Henrik Kraft -
+我丈夫的一個朋友, Henrik Kraft
 
-44
-00:07:01,400 --> 00:07:06,000
-- knew Leif B. Hendil,
+72
+00:07:01,400 --> 00:07:03,517
+knew Leif B. Hendil,
+認識 Leif B. Hendil。
+
+73
+00:07:03,617 --> 00:07:05,999
 the editor of Ekstra Bladet.
-認識 Ekstrabladet 的編輯 Leif B. Hendil。
-(Ekstra Bladet是丹麥的報紙)
+Ekstrabladet 的編輯
 
-45
-00:07:06,120 --> 00:07:12,480
-They were behind the evacuation of
-Jews from Snekkersten to Helsingborg.
-他們在背地裡主持著將猶太人從 Snekkersten 移動到 Helsingborg。
+74
+00:07:06,120 --> 00:07:08,975
+They were behind the evacuation of Jews
+他們在背地裡主持著將猶太人
 
-46
-00:07:12,600 --> 00:07:19,040
+75
+00:07:09,075 --> 00:07:12,479
+from Snekkersten to Helsingborg.
+從 Snekkersten 移動到 Helsingborg。
+
+76
+00:07:12,600 --> 00:07:15,806
 They had completed 30 crossings.
-We were due to go on the next one.
-他們已經成功完成30次。我們本來是下一梯。
+他們已經成功完成30次。
 
-47
+77
+00:07:15,906 --> 00:07:19,039
+We were due to go on the next one.
+我們本來是下一梯。
+
+78
 00:07:32,760 --> 00:07:36,120
 That really was wonderful.
 那真的是很美好。
 
-48
+79
 00:07:39,800 --> 00:07:43,680
-The night in question
-turned into a nightmare.
+The night in question turned into a nightmare.
 出事情的那晚成了噩夢。
 
-49
-00:07:43,800 --> 00:07:48,240
+80
+00:07:43,800 --> 00:07:45,885
 Suddenly, the engine cut out
+突然，引擎不動了，
+
+81
+00:07:45,985 --> 00:07:48,239
 and the boat started bobbing about.
-突然，引擎不動了，船開始漂。
-50
-01:07:48,360 --> 01:07:53,240
+船開始漂。
+
+82
+00:07:48,360 --> 00:07:50,860
 We shouted: "What is going on?"
-All the men were lying on deck.
 "發生了什麼事?"我們喊著。
+
+83
+00:07:50,960 --> 00:07:53,239
+All the men were lying on deck.
 所有人都趴在甲板上。
 
-50
+84
 00:07:53,360 --> 00:07:56,400
-They told us it was
-a German patrol boat -
+They told us it was a German patrol boat -
 他們告訴我們是一艘德國巡邏船，
 
-51
-00:07:56,520 --> 00:08:03,160
-- and to avoid them seeing us on the
-radar they'd switched off the engine.
-為了不被他們的雷達發現，他們必須要把引擎關掉。
+85
+00:07:56,520 --> 00:08:00,135
+and to avoid them seeing us on the radar
+為了不被他們的雷達發現，
 
-52
+86
+00:08:00,235 --> 00:08:03,159
+they'd switched off the engine.
+他們必須要把引擎關掉。
+
+87
 00:08:12,080 --> 00:08:15,080
-After 15 minutes
-we heard this sound...
+After 15 minutes we heard this sound...
 15分鐘過後，我們聽到聲音...
 
-53
+88
 00:08:15,200 --> 00:08:18,680
-And we knew,
-we could breathe a sigh of relief.
+And we knew, we could breathe a sigh of relief.
 我們知道，我們可以鬆一口氣。
 
-54
-00:08:28,640 --> 00:08:35,200
+89
+00:08:28,640 --> 00:08:32,161
 We spent two years "over there".
+從1943年10月到1945年，
+
+90
+00:08:32,261 --> 00:08:35,199
 From October 1943 till 1945.
-從1943年10月到1945年，我們花了兩年時間在那邊。
+我們花了兩年時間在那邊。
 
-55
-00:08:35,320 --> 00:08:40,520
-We became more optimistic as
-things started going against Hitler.
-我們變得更加樂觀，因為局勢開始對希特勒不利。
+91
+00:08:35,320 --> 00:08:37,338
+We became more optimistic
+我們變得更加樂觀，
 
-56
-00:08:40,640 --> 00:08:46,040
-That kept us going. We knew
-it was only a question of time.
-這件事情驅使著我們繼續下去。我們知道只是時間上的問題。
+92
+00:08:37,438 --> 00:08:40,519
+as things started going against Hitler.
+因為局勢開始對希特勒不利。
 
-57
-00:08:58,960 --> 00:09:03,120
+93
+00:08:40,640 --> 00:08:42,700
+That kept us going.
+這件事情驅使著我們繼續下去。
+
+94
+00:08:42,800 --> 00:08:46,039
+We knew it was only a question of time.
+我們知道只是時間上的問題。
+
+95
+00:08:58,960 --> 00:09:01,053
 We got married in '32,
-and for 10-15 years -
-我們在1932年結婚，在結婚的10-15年間
-59
-01:09:03,240 --> 01:09:07,400
--we tried our best
-to avoid having any children.
+我們在1932年結婚，
+
+96
+00:09:01,153 --> 00:09:03,119
+and for 10-15 years
+在結婚的10-15年間
+
+97
+00:09:03,240 --> 00:09:07,400
+we tried our best to avoid having any children.
 我們試著去避免生小孩。
 
-58
+98
 00:09:11,160 --> 00:09:14,320
 When we returned home in 1945 -
 當我們在1945年回家時
 
-59
+99
 00:09:14,440 --> 00:09:16,480
 - we decided the time had come -
 我們決定時候到了，
 
-60
-00:09:16,600 --> 00:09:21,400
-- and our first child was born in
-1946, followed by one more in 1948.
-我們的第一個小孩在1946年出生，下一個在1948年。
+100
+00:09:16,600 --> 00:09:19,370
+- and our first child was born in 1946,
+我們的第一個小孩在1946年出生，
 
-61
-00:09:42,960 --> 00:09:50,360
+101
+00:09:19,470 --> 00:09:21,399
+followed by one more in 1948.
+下一個在1948年。
+
+102
+00:09:42,960 --> 00:09:46,610
 Timer has been set to 9 seconds...
-And Micky, remember to smile.
-時間設定倒數九秒，還有Micky 記得要微笑。
+時間設定倒數九秒，
 
-62
+103
+00:09:46,710 --> 00:09:50,360
+And Micky, remember to smile.
+還有Micky 記得要微笑。
+
+104
 00:09:50,480 --> 00:09:53,000
-I always look
-foolish in photographs...
+I always look foolish in photographs...
 我相片中總是看起來笨笨的...
 
-63
-00:09:53,120 --> 00:09:57,920
-That's because you always
-keep talking. Let's take one more.
-那是因為你總是在說話。我們在拍一張。
+105
+00:09:53,120 --> 00:09:56,168
+That's because you always keep talking.
+那是因為你總是在說話。
 
-64
-00:10:12,200 --> 00:10:17,680
+106
+00:09:56,268 --> 00:09:57,919
+Let's take one more.
+我們在拍一張。
+
+107
+00:10:12,200 --> 00:10:15,121
 The most difficult thing for me is
-that my husband has passed away -
-對我來說最困難的事是我丈夫的過世
+對我來說最困難的事是
 
-65
-00:10:17,800 --> 00:10:22,400
-- and so have all my
-best friends from the past 50 years.
-還有過去50年間所有我最好的朋友。
+108
+00:10:15,221 --> 00:10:17,679
+that my husband has passed away
+我丈夫的過世
 
-66
+109
+00:10:17,800 --> 00:10:20,396
+and so have all my best friends
+還有過去50年間所有
+
+110
+00:10:20,496 --> 00:10:22,399
+from the past 50 years.
+我最好的朋友。
+
+111
 00:10:22,520 --> 00:10:26,000
-That is why it is
-important to have a hobby -
+That is why it is important to have a hobby -
 這是為什麼要有個興趣
 
-67
-00:10:26,120 --> 00:10:29,600
-- because you'll meet
-people younger than yourself.
-因為你會遇見比你年輕的人。
+112
+00:10:26,120 --> 00:10:27,948
+because you'll meet people
+因為你會遇見比
 
-68
-00:10:29,720 --> 00:10:36,480
-I have been lucky that way, because I
-have made many friends here.
-我已經很幸運了，因為我在這認識了很多朋友。
+113
+00:10:28,048 --> 00:10:29,599
+younger than yourself.
+你年輕的人。
 
-69
+114
+00:10:29,720 --> 00:10:32,435
+I have been lucky that way,
+我已經很幸運了，
+
+115
+00:10:32,535 --> 00:10:36,479
+because I have made many friends here.
+因為我在這認識了很多朋友。
+
+116
 00:10:49,160 --> 00:10:52,840
-My mother-in-law
-was 94 when she died.
+My mother-in-law was 94 when she died.
 我婆婆在94歲時過世。
 
-70
-00:10:52,960 --> 00:10:58,280
+117
+00:10:52,960 --> 00:10:55,766
 She'd say: "The most difficult part
-is that all my friends have died -
-她說過"最令人傷心的事情是所有我的朋友都過世了，
+她說過"最令人傷心的事情是所有
 
-71
-00:10:58,400 --> 00:11:01,760
-- and that I have no one
-left to talk to from those days".
-沒有人可以和我一起聊著那些過去的日子。"
+118
+00:10:55,866 --> 00:10:58,280
+is that all my friends have died
+我的朋友都過世了，
 
-72
-00:11:01,880 --> 00:11:09,160
+119
+00:10:58,400 --> 00:10:59,877
+and that I have no one left
+沒有人可以和我一起
+
+120
+00:10:59,977 --> 00:11:01,759
+to talk to from those days".
+聊著那些過去的日子。"
+
+121
+00:11:01,880 --> 00:11:05,255
 There is no one to share
-all the good memories with.
-沒有人可以分享所有的美好回憶。
+沒有人可以分享
 
-73
+122
+00:11:05,355 --> 00:11:09,159
+all the good memories with.
+所有的美好回憶。
+
+123
 00:11:10,200 --> 00:11:13,720
 That's just the way it is.
 事情就只是這樣。
 
-74
+124
 00:11:14,840 --> 00:11:18,920
-There she is!
-^I"Tres elegant"...>
+There she is! "Tres elegant"...
 她在那!
 
-75
+125
 00:11:19,040 --> 00:11:22,640
 100 YEARS OLD
 100歲
 
-76
-00:11:49,440 --> 00:11:53,920
+126
+00:11:49,440 --> 00:11:51,779
 Getting older is a fact of life
-which you cannot change -
-變老是生命中一個你無法改變的事實，
+變老是生命中一個
 
-77
-00:11:54,040 --> 00:11:57,360
+127
+00:11:51,879 --> 00:11:53,919
+which you cannot change
+你無法改變的事實，
+
+128
+00:11:54,040 --> 00:11:55,557
 - so you might as well try
+所以你不妨去試
+
+129
+00:11:55,657 --> 00:11:57,359
 to enjoy it as much as you can.
-所以你不妨去試著享受看看。
+著享受看看。
 
-78
-00:11:57,480 --> 00:12:01,640
-Try to keep doing the
-things you've always done -
-嘗試繼續做你一直在做的事情
-81
-01:12:01,760 --> 01:12:05,480
+130
+00:11:57,480 --> 00:11:59,748
+Try to keep doing the things
+嘗試繼續做
+
+131
+00:11:59,848 --> 00:12:01,639
+you've always done
+你一直在做的事情
+
+132
+00:12:01,760 --> 00:12:03,537
 - which is what I do.
+這是我做的。
+
+133
+00:12:03,637 --> 00:12:05,479
 I keep participating.
-這是我做的。我盡量去參與。
+我盡量去參與。
 
-79
-00:12:05,600 --> 00:12:11,120
+134
+00:12:05,600 --> 00:12:08,112
 Keep participating in daily life
-for as long as you possibly can.
-只要你可以，盡量去參與你的日常生活。
+只要你可以，
 
-80
+135
+00:12:08,212 --> 00:12:11,119
+for as long as you possibly can.
+盡量去參與你的日常生活。
+
+136
 00:12:11,240 --> 00:12:13,840
 I believe that is very important.
 我相信這是非常重要的。
